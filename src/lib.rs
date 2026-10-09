@@ -1,0 +1,10 @@
+pub mod acrylic;
+pub mod commands;
+pub mod config;
+pub mod desktop;
+pub mod error;
+pub mod hotkeys;
+pub mod mcp;
+pub mod state;
+pub mod tray;
+pub mod window;

@@ -1,0 +1,26 @@
+name: 问题报告
+description: 使用脱敏步骤帮助定位阅读器问题
+body:
+  - type: markdown
+    attributes:
+      value: 请勿提交 Token、完整配置、真实账号或新闻数据。安全漏洞请先按 SECURITY.md 私下报告。
+  - type: input
+    id: environment
+    attributes:
+      label: 版本与环境
+      description: 阅读器、Windows、WebView2 版本；如涉及布局请注明 DPI。
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 从启动状态开始；使用合成内容即可复现时优先使用合成内容。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期行为与实际行为
+    validations:
+      required: true

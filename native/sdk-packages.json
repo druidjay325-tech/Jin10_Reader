@@ -1,0 +1,26 @@
+[
+  {
+    "id": "microsoft.windowsappsdk",
+    "version": "2.5.1",
+    "url": "https://api.nuget.org/v3-flatcontainer/microsoft.windowsappsdk/2.5.1/microsoft.windowsappsdk.2.5.1.nupkg",
+    "sha256": "2e26de1253e2e2a288a75387523e2f8b402c05f117d42013df9875887a70933a"
+  },
+  {
+    "id": "microsoft.windowsappsdk.foundation",
+    "version": "2.3.12",
+    "url": "https://api.nuget.org/v3-flatcontainer/microsoft.windowsappsdk.foundation/2.3.12/microsoft.windowsappsdk.foundation.2.3.12.nupkg",
+    "sha256": "ce04d01d68cb16b5dc85a5c9efb8162dba876bc2e5b766b5968979899d4efa9e"
+  },
+  {
+    "id": "microsoft.windowsappsdk.interactiveexperiences",
+    "version": "2.1.9",
+    "url": "https://api.nuget.org/v3-flatcontainer/microsoft.windowsappsdk.interactiveexperiences/2.1.9/microsoft.windowsappsdk.interactiveexperiences.2.1.9.nupkg",
+    "sha256": "f9159d73e3e46717f159606e43b4acf8336aaff5bdd4d395fe3a93fdb41437ac"
+  },
+  {
+    "id": "microsoft.windows.cppwinrt",
+    "version": "2.0.240405.15",
+    "url": "https://api.nuget.org/v3-flatcontainer/microsoft.windows.cppwinrt/2.0.240405.15/microsoft.windows.cppwinrt.2.0.240405.15.nupkg",
+    "sha256": "e889007b5d9235931e7340ddf737d2c346eebdd23c619f1f4f2426a2aae47180"
+  }
+]

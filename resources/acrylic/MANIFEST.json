@@ -1,0 +1,23 @@
+{
+  "runtimeMinimum": "2.5.1.0",
+  "files": [
+    {
+      "sha256": "6f40942589a623075b7b638c8a54a48b3ca052b9604e7632ca6cf9369100155d",
+      "file": "official-acrylic.dll"
+    },
+    {
+      "sha256": "e4acd665ff39f8a0d591459bd5901482e71b4ffbe644f421ffad9431b5fed438",
+      "file": "Microsoft.WindowsAppRuntime.Bootstrap.dll"
+    },
+    {
+      "sha256": "5b11e6347756e40fe0274bc08c97f89201b94f0d50181a09a00f1f4740840501",
+      "file": "SDK-LICENSE.txt"
+    },
+    {
+      "sha256": "572b43d41dea717dae7dc5de69acb20a74df025e8f5a3c0aa6f7bca02615e23c",
+      "file": "SDK-NOTICE.txt"
+    }
+  ],
+  "deployment": "framework-dependent",
+  "sdk": "2.5.1"
+}

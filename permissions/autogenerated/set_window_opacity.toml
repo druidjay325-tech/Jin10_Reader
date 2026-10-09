@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-set-window-opacity"
+description = "Enables the set_window_opacity command without any pre-configured scope."
+commands.allow = ["set_window_opacity"]
+
+[[permission]]
+identifier = "deny-set-window-opacity"
+description = "Denies the set_window_opacity command without any pre-configured scope."
+commands.deny = ["set_window_opacity"]

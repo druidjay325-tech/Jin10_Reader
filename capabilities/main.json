@@ -1,0 +1,15 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "main",
+  "description": "本地阅读窗口：数据与窗口操作，不允许保存认证配置或测试凭据。",
+  "windows": ["main"],
+  "permissions": [
+    "core:window:allow-hide", "core:window:allow-start-dragging",
+    "core:event:allow-listen", "core:event:allow-unlisten",
+    "allow-get-quotes", "allow-get-flash", "allow-get-news", "allow-get-calendar",
+    "allow-search-flash", "allow-search-news", "allow-get-news-detail", "allow-health",
+    "allow-get-config", "allow-restart-mcp", "allow-open-external", "allow-quit-app",
+    "allow-open-settings", "allow-reset-window-position", "allow-toggle-maximize",
+    "allow-set-window-size", "allow-set-mini-mode", "allow-set-theme"
+  ]
+}

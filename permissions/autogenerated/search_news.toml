@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-search-news"
+description = "Enables the search_news command without any pre-configured scope."
+commands.allow = ["search_news"]
+
+[[permission]]
+identifier = "deny-search-news"
+description = "Denies the search_news command without any pre-configured scope."
+commands.deny = ["search_news"]
