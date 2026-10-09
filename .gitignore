@@ -16,3 +16,4 @@ Thumbs.db
 # dist 是手写前端源码，必须跟随发行版本提交。
 !/dist/
 !/dist/**
+!/capabilities/settings.json

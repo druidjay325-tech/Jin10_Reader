@@ -1,0 +1,12 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "settings",
+  "description": "本地设置窗口：认证测试与配置写入，不能读取或导出已存 Token。",
+  "windows": ["settings"],
+  "permissions": [
+    "core:window:allow-hide", "core:window:allow-start-dragging",
+    "core:event:allow-listen", "core:event:allow-unlisten",
+    "allow-get-config", "allow-save-config", "allow-test-mcp", "allow-health",
+    "allow-restart-mcp", "allow-open-external", "allow-reset-window-position"
+  ]
+}
